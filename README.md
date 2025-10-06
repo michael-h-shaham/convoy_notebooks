@@ -8,4 +8,4 @@ and making sure things work, but was also used to run simulations for
 the paper titled "Design and realization of a benchmarking testbed for 
 evaluating autonomous platooning algorithms" which was accepted to ISER 
 2023. The paper can be found 
-[here](https://michael-shaham.github.io/papers/platoon_testbed.html).
+[here](https://michael-h-shaham.github.io/papers/2023/platoon_testbed.html).
