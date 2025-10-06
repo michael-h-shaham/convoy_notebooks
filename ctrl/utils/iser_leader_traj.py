@@ -10,7 +10,7 @@ def accel_decel_step(total_time, dt, accel_start, accel_end,
         arguments:
             total_time: float, total time for the reference trajectory (s)
             dt: float, discrete timestep (s)
-            accel_start: float,time when acceleration starts (s)
+            accel_start: float, time when acceleration starts (s)
             accel_end: float, time when acceleration ends (s)
             decel_start: float, time when deceleration starts (s)
             decel_end: float, time when deceleration ends (s)
