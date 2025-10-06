@@ -5,7 +5,7 @@ planning, and control algorithms for convoys.
 
 Please don't judge based on this code, it's mostly for quick prototyping 
 and making sure things work, but was also used to run simulations for 
-the paper titled "Design and realization of a benchmarking testbed for 
-evaluating autonomous platooning algorithms" which was accepted to ISER 
-2023. The paper can be found 
-[here](https://michael-shaham.github.io/papers/platoon_testbed.html).
+the paper titled "Learning a stable, safe, distributed feedback 
+controll for a heterogeneous platoon of autonomous vehicles." which was 
+accepted to ISRR 2024. The paper can be found 
+[here](https://michael-h-shaham.github.io/papers/2024/learning_lyapunov_nn_platoon.html).
